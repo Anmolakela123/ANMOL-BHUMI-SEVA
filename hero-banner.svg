@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 720">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#023b2c"/><stop offset=".55" stop-color="#075d43"/><stop offset="1" stop-color="#012a21"/></linearGradient>
+  <radialGradient id="sun"><stop stop-color="#ffe979" stop-opacity=".95"/><stop offset="1" stop-color="#ffe979" stop-opacity="0"/></radialGradient>
+  <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8dda0"/><stop offset="1" stop-color="#c79a52"/></linearGradient>
+  <filter id="shadow"><feDropShadow dx="0" dy="20" stdDeviation="18" flood-opacity=".35"/></filter>
+</defs>
+<rect width="1600" height="720" fill="url(#bg)"/>
+<circle cx="280" cy="100" r="230" fill="url(#sun)"/>
+<g opacity=".13" stroke="#d5edcf" stroke-width="2">
+ <path d="M0 600L450 250M130 720L600 300M420 720L820 390M900 720L1350 280M1120 720L1580 350"/>
+ <path d="M0 620h1600M0 540h1600M0 460h1600"/>
+</g>
+<g font-family="Noto Sans Devanagari, Arial, sans-serif">
+ <rect x="70" y="58" width="330" height="62" rx="31" fill="#f5c900"/>
+ <text x="235" y="101" text-anchor="middle" font-size="31" font-weight="800" fill="#123b2e">बिहार के लिए डिजिटल सहायता</text>
+ <text x="70" y="230" font-size="78" font-weight="900" fill="#fff">बाप-दादा का</text>
+ <text x="70" y="320" font-size="94" font-weight="900" fill="#ffd51b">पुराना खतियान</text>
+ <text x="70" y="405" font-size="78" font-weight="900" fill="#fff">नहीं मिल रहा?</text>
+ <text x="72" y="458" font-size="29" fill="#d8eee5">खतियान • केवाला • जमाबंदी पंजी • जमीन की रसीद</text>
+ <rect x="70" y="500" width="420" height="60" rx="30" fill="#f5c900"/>
+ <text x="280" y="540" text-anchor="middle" font-size="28" font-weight="900" fill="#173b2f">हमारे पास समाधान है!</text>
+</g>
+<!-- papers -->
+<g filter="url(#shadow)">
+ <g transform="translate(1060 95) rotate(8)">
+   <rect width="390" height="540" rx="12" fill="#b8914e"/>
+   <rect x="22" y="22" width="346" height="496" rx="8" fill="#ead092"/>
+   <text x="195" y="90" text-anchor="middle" font-family="Noto Sans Devanagari, Arial" font-size="30" font-weight="800" fill="#4b3824">बिहार भूमि अभिलेख</text>
+   <line x1="55" y1="125" x2="335" y2="125" stroke="#70583a" stroke-width="3"/>
+   <text x="195" y="190" text-anchor="middle" font-family="Noto Sans Devanagari, Arial" font-size="62" font-weight="900" fill="#49331f">खतियान</text>
+   <g stroke="#7c6748" stroke-width="2" opacity=".75">
+    <line x1="60" y1="240" x2="330" y2="240"/><line x1="60" y1="290" x2="330" y2="290"/><line x1="60" y1="340" x2="330" y2="340"/><line x1="60" y1="390" x2="330" y2="390"/>
+   </g>
+   <text x="70" y="275" font-family="Noto Sans Devanagari, Arial" font-size="22" fill="#4f3b27">रैयत का नाम</text>
+   <text x="70" y="325" font-family="Noto Sans Devanagari, Arial" font-size="22" fill="#4f3b27">खाता संख्या</text>
+   <text x="70" y="375" font-family="Noto Sans Devanagari, Arial" font-size="22" fill="#4f3b27">खेसरा संख्या</text>
+   <circle cx="270" cy="430" r="62" fill="none" stroke="#a94b38" stroke-width="8" opacity=".8"/>
+   <text x="270" y="438" text-anchor="middle" font-family="Arial" font-size="24" font-weight="800" fill="#a94b38">RECORD</text>
+ </g>
+ <g transform="translate(930 125) rotate(-7)">
+   <rect width="360" height="500" rx="12" fill="#b8914e" opacity=".95"/>
+   <rect x="20" y="20" width="320" height="460" rx="8" fill="#d9bd7c"/>
+   <text x="180" y="100" text-anchor="middle" font-family="Noto Sans Devanagari, Arial" font-size="48" font-weight="900" fill="#4b3824">केवाला</text>
+ </g>
+</g>
+<g font-family="Noto Sans Devanagari, Arial">
+ <rect x="68" y="610" width="790" height="64" rx="32" fill="#ffffff" fill-opacity=".13" stroke="#ffffff" stroke-opacity=".3"/>
+ <text x="105" y="651" font-size="25" fill="#fff">✓ पूरे बिहार में सेवा</text>
+ <text x="380" y="651" font-size="25" fill="#fff">✓ आसान आवेदन</text>
+ <text x="610" y="651" font-size="25" fill="#fff">✓ WhatsApp सहायता</text>
+</g>
+</svg>
