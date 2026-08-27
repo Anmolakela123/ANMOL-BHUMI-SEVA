@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260">
+<defs>
+  <linearGradient id="g" x1="0" x2="1"><stop stop-color="#063d25"/><stop offset="1" stop-color="#0b6b3a"/></linearGradient>
+  <linearGradient id="gold" x1="0" x2="1"><stop stop-color="#d99a16"/><stop offset="1" stop-color="#ffd95a"/></linearGradient>
+</defs>
+<rect width="900" height="260" rx="42" fill="#fff"/>
+<circle cx="130" cy="130" r="92" fill="url(#g)"/>
+<path d="M74 156 Q130 55 186 156 Q130 126 74 156Z" fill="#7dbb3c"/>
+<path d="M92 170 Q130 92 168 170 Q130 150 92 170Z" fill="#f1c232"/>
+<path d="M130 65 L130 188" stroke="#fff" stroke-width="8" stroke-linecap="round"/>
+<path d="M72 190 Q130 212 188 190" fill="none" stroke="#ffd95a" stroke-width="7"/>
+<text x="245" y="116" font-family="Arial, Noto Sans Devanagari, sans-serif" font-size="68" font-weight="800" fill="#063d25">ANMOL</text>
+<text x="245" y="185" font-family="Arial, Noto Sans Devanagari, sans-serif" font-size="62" font-weight="800" fill="#c28a12">BHUMI SEVA</text>
+<text x="248" y="225" font-family="Arial, Noto Sans Devanagari, sans-serif" font-size="24" fill="#4d554f">जमीन से जुड़े रिकॉर्ड एवं दस्तावेज़ की डिजिटल सेवा</text>
+</svg>
